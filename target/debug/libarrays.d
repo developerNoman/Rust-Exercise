@@ -1,0 +1,1 @@
+/home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/target/debug/libarrays.rlib: /home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/exercises/06_ticket_management/01_arrays/src/lib.rs

@@ -1,0 +1,11 @@
+/home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/target/debug/deps/libnotify-25b659219dfadbd4.rmeta: /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/target/debug/deps/notify-25b659219dfadbd4.d: /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs:
+/home/noman-shafique/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs:

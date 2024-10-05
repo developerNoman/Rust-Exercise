@@ -1,0 +1,1 @@
+/home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/target/debug/libtrait_.rlib: /home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/exercises/04_traits/01_trait/src/lib.rs

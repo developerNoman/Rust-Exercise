@@ -1,0 +1,1 @@
+/home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/target/debug/libfactorial.rlib: /home/noman-shafique/Training/Learning/Rust/100-exercises-to-learn-rust/exercises/02_basic_calculator/05_factorial/src/lib.rs
